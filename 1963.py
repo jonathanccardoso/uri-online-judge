@@ -1,0 +1,5 @@
+valores=input()
+a,b=valores.split(" ")
+operacao=(((float(b)-float(a)) * 100.00)/float(a))
+result=float(operacao)
+print("{0:.2f}%".format(result))
