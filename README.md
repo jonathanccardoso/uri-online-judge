@@ -1,6 +1,10 @@
-# uri-online-judge
-Solutions in python URI Online Judge.
+# Uri Online Judge
 
-## Pendências
-- (4-8) ok
-- Revisar
+Soluções do URI Online Judge em python3
+
+## Autor
+
+**Jonathan Cardoso**
+
+- <https://facebook.com/jonathanccardoso>
+- <https://github.com/jonathanccardoso>
